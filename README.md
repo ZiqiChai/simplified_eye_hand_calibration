@@ -48,3 +48,6 @@ for eye in hand calibration:
 ```
 
 results are in the same folder.
+
+## example calibration data can be downloaded from:
+https://jbox.sjtu.edu.cn/l/KnHCaC
